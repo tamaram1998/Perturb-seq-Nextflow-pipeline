@@ -240,8 +240,6 @@ Estimated monthly costs:
 
 Total Estimated Monthly Cost: $287.65
 
-Note: This is a rough estimate and actual costs may vary based on usage patterns and data access frequencies. 
-
 Cost Optimization Notes:
 - S3 Intelligent-Tiering not included in this estimate but can provide savings for data with changing access patterns.
 - EC2 Spot Instances with AWS Batch can offer potential savings of up to 70% on compute costs.
